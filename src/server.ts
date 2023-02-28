@@ -5,4 +5,5 @@ e seus types devido.
 
 proximo passo criar o servidor nosso ORM nossa api e por fim fazer as devidas validações dos usuarios,
 utilizando jsonwebtoken para gerarmos o token e validarmos com o passport.
+
 */
